@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ef1470eadc140864cadfc7121ce39ea8, type: 3}
-  m_Name: BadGuyManager1
+  m_Name: GalagaArmy
   m_EditorClassIdentifier: 
   prefabNames:
-  - Alien
-  prefabsToSpawn: 05000000
+  - Boss of Galaga 1q2_0
+  prefabsToSpawn: 0000000000000000000000000000000000000000
   spawnPoints:
   - spawnPoints:
-    - {x: -5, y: 2}
-    - {x: -2, y: 2}
+    - {x: -8, y: 2}
+    - {x: -6, y: 2}
     - {x: 0, y: 2}
-    - {x: 2, y: 2}
-    - {x: 5, y: 2}
+    - {x: 6, y: 2}
+    - {x: 8, y: 2}
